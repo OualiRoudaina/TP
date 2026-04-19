@@ -1,0 +1,3 @@
+# Fin de ligne stable pour les lockfiles (évite des diffs Windows/Linux inutiles).
+frontend/package-lock.json text eol=lf
+backend/package-lock.json text eol=lf
